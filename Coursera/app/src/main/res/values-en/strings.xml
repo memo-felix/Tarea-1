@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Course Coursera</string>
+    <string name="titulo_app" translatable="false">Welcome</string>
+    <string name="button" translatable="false">Enter</string>
+</resources>
